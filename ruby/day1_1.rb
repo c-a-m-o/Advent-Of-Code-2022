@@ -1,0 +1,1 @@
+$/*=2;p$<.map{_1.split.map(&:to_i).sum}.max
