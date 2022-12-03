@@ -1,0 +1,1 @@
+p$<.sum{l=_1.codepoints;s=l.size/2;x,*_=l[..s]&l[s..];x-(x<97?38:96)}
