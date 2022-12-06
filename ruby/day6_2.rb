@@ -1,0 +1,1 @@
+p gets.chars.each_cons(14).to_a.index{|l|l&l==l}+14
