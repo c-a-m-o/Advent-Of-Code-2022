@@ -1,0 +1,1 @@
+x=i=1;p$<.read.split.sum{x+=_1.to_i;i+=1;i%40==20?i*x:0}

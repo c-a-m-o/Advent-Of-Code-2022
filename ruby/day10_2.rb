@@ -1,0 +1,1 @@
+x=1;$><<[1,*$<.read.split.map{x+=_1.to_i}].each_slice(40).map{|l|l.map.with_index{(_2-_1).abs<2??#:?.}*''}.join($/)
